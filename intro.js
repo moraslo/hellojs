@@ -1,0 +1,1 @@
+console.log("My name is: Mustapha Olaniyan, and my age is 33 years old and my favorite language is java and python.")
